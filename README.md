@@ -1,2 +1,2 @@
 # VETORES-JAVA
-ATIVIDADES BASICAS DE VETORES PASSADAS PELO PROFESSOR Nélio Alves na PLATAFORMA UDEMY
+Atividades de Vetores Passadas pelo Professor Nélio Alves no Curso de JAVA na Plataforma Udemy
